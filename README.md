@@ -1248,6 +1248,8 @@ PHASE 5 — Deep Learning + PyTorch**
 | **103** | Deep-learning evaluation   | Metrics                 | Model evaluation                                  |
 | **104** | DL project structure       | Organize code           | Production-style repo                             |
 | **105** | Revision                   | Full experiment         | **Major Project #2: Image Classification System** |
+
+
 **
   PHASE 6 — NLP + Transformers**
 
@@ -1269,6 +1271,7 @@ PHASE 5 — Deep Learning + PyTorch**
 | **118** | BERT-style models   | Text classification      | Sentiment classifier                    |
 | **119** | NLP evaluation      | Accuracy/F1              | Evaluate model                          |
 | **120** | NLP revision        | Full pipeline            | **Mini Project: AI Sentiment Analyzer** |
+
 
 **PHASE 7 — Generative AI + LLM Engineering**
 
@@ -1299,6 +1302,7 @@ PHASE 5 — Deep Learning + PyTorch**
 
 
 **PHASE 8 — RAG**
+
 
 | Day     | Study                | Coding                       | Build                                  |
 | ------- | -------------------- | ---------------------------- | -------------------------------------- |
