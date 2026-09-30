@@ -1437,8 +1437,6 @@ Evaluation
 
 📚 What You Should Know at Day 180
 
-**By the end, your skill tree should look like this:**
-
 AI ENGINEER
 │
 ├── Python
