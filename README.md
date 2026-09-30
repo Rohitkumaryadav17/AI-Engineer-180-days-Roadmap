@@ -1158,7 +1158,8 @@ And don't wait until Day 180 to apply.
 **PHASE 3 — Mathematics for Machine Learning**
 
 
-
+| Day    | Study                   | Coding                 | Practice                                         |
+| ------ | ----------------------- | ---------------------- | ------------------------------------------------ |
 | **36** | Scalars/vectors         | NumPy vectors          | Vector operations                                |
 | **37** | Dot product             | Implement manually     | Similarity calculator                            |
 | **38** | Matrices                | Matrix operations      | Matrix calculator                                |
@@ -1174,6 +1175,10 @@ And don't wait until Day 180 to apply.
 | **48** | Gradient descent        | Implement from scratch | Minimize a function                              |
 | **49** | ML math revision        | Mixed problems         | ML mathematics notebook                          |
 | **50** | Full revision           | 20 problems            | **Mini Project: Linear Regression from Scratch** |
+
+
+
+
 
 **PHASE 4 — Machine Learning**
 
