@@ -1104,6 +1104,7 @@ And don't wait until Day 180 to apply.
 🚀 **AI Engineer — Job Ready**
 
 **Important:** Treat each day as a checkbox, not a deadline to rush through. If you need two days for a difficult concept, take two days and shift the calendar forward. Depth + working projects matter more than finishing Day 180 on the exact date.
+
 **PHASE 1 — Python Foundation**
       
 | Day    | Study                                       | Coding                    | Build/Practice                            |
