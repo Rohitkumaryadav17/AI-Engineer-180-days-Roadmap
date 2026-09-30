@@ -1551,6 +1551,367 @@ Next 60 min: Code from scratch
 Next 45 min: Project
 Last 15 min: GitHub + notes + revision
 
+Yes. For the **180-day AI Engineer plan**, I’d keep your resources limited to a small set of high-quality sources rather than collecting hundreds of courses.
+
+## 📚 Best Resource Stack
+
+### 1. Python — Days 1–20
+
+**Primary:** [Python Official Tutorial](https://docs.python.org/3/tutorial/?utm_source=chatgpt.com)
+
+Use it for:
+
+* Syntax
+* Functions
+* OOP
+* Modules
+* Exceptions
+* File handling
+
+**Practice:** [LeetCode](https://leetcode.com/?utm_source=chatgpt.com)
+
+Start with easy Python problems.
+
+---
+
+### 2. NumPy + Pandas — Days 21–35
+
+**NumPy:** [NumPy Learn](https://numpy.org/learn/?utm_source=chatgpt.com)
+
+**Pandas:** [Pandas Getting Started](https://pandas.pydata.org/docs/getting_started/intro_tutorials/?utm_source=chatgpt.com)
+
+Practice with:
+
+* CSV datasets
+* Missing values
+* Filtering
+* GroupBy
+* Merge
+* Data visualization
+
+---
+
+### 3. Mathematics — Days 36–50
+
+**Best beginner-friendly resource:** [Khan Academy](https://www.khanacademy.org/math?utm_source=chatgpt.com)
+
+Focus only on:
+
+* Linear algebra
+* Statistics
+* Probability
+* Derivatives
+* Gradients
+
+Don't spend months studying advanced mathematics.
+
+---
+
+### 4. Machine Learning — Days 51–80 ⭐
+
+**Primary:** [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html?utm_source=chatgpt.com)
+
+Learn:
+
+* Regression
+* Classification
+* Clustering
+* Model evaluation
+* Feature engineering
+* Cross-validation
+* Hyperparameter tuning
+
+**Excellent free course:** [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?utm_source=chatgpt.com)
+
+Use **Google ML Crash Course + scikit-learn documentation** together.
+
+---
+
+### 5. Deep Learning — Days 81–105 ⭐
+
+**Primary:** [PyTorch Tutorials](https://docs.pytorch.org/tutorials/?utm_source=chatgpt.com)
+
+Learn:
+
+* Tensors
+* Autograd
+* Neural networks
+* Training loops
+* CNN
+* Transfer learning
+
+**Theory:** [Deep Learning Specialization — DeepLearning.AI](https://www.deeplearning.ai/courses/deep-learning-specialization/?utm_source=chatgpt.com)
+
+You don't need to buy the course immediately; use its syllabus to structure your learning.
+
+---
+
+### 6. NLP + Transformers — Days 106–120
+
+**Primary:** [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/?utm_source=chatgpt.com)
+
+This should become one of your **main resources**.
+
+Learn:
+
+* Tokenization
+* Transformers
+* BERT
+* Fine-tuning
+* Datasets
+* Model inference
+
+Also use [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/?utm_source=chatgpt.com).
+
+---
+
+# 🤖 7. Generative AI — Days 121–140
+
+Use official documentation for whichever LLM API you choose.
+
+For OpenAI specifically: [OpenAI Developer Platform](https://developers.openai.com/?utm_source=chatgpt.com)
+
+Learn:
+
+* API usage
+* Prompting
+* Structured outputs
+* Tool/function calling
+* Embeddings
+* Evaluation
+
+**Important:** Don't spend weeks only learning prompt engineering. Your goal is to **build software around models**.
+
+---
+
+# 📚 8. RAG — Days 141–153 ⭐⭐⭐
+
+Use:
+
+[LlamaIndex Documentation](https://docs.llamaindex.ai/?utm_source=chatgpt.com)
+
+and
+
+[LangChain Documentation](https://docs.langchain.com/?utm_source=chatgpt.com)
+
+Learn the actual concepts:
+
+```text
+Documents
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+Vector Database
+   ↓
+Retrieval
+   ↓
+LLM
+   ↓
+Answer
+```
+
+Don't just copy a LangChain tutorial. You should be able to explain **why each component exists**.
+
+---
+
+# 🤖 9. AI Agents — Days 154–165
+
+For agent workflows:
+
+[LangGraph Documentation](https://docs.langchain.com/oss/python/langgraph/overview?utm_source=chatgpt.com)
+
+Learn:
+
+* Tool calling
+* State
+* Memory
+* Workflows
+* Human approval
+* Multi-step agents
+* Agent evaluation
+
+Build your **AI Research Agent** from scratch.
+
+---
+
+# ⚙️ 10. FastAPI — Days 166–170
+
+[FastAPI Documentation](https://fastapi.tiangolo.com/?utm_source=chatgpt.com)
+
+Learn:
+
+* REST APIs
+* GET/POST
+* Request validation
+* Authentication
+* Database integration
+* API documentation
+
+---
+
+# 🐳 11. Docker — Days 171–172
+
+[Docker Get Started](https://docs.docker.com/get-started/?utm_source=chatgpt.com)
+
+Learn:
+
+```text
+Dockerfile
+Image
+Container
+Volume
+Network
+Docker Compose
+```
+
+Then containerize your AI application.
+
+---
+
+# ☁️ 12. AWS — Days 173–175
+
+Start with:
+
+[AWS Skill Builder](https://skillbuilder.aws/?utm_source=chatgpt.com)
+
+Focus on practical fundamentals:
+
+* EC2
+* S3
+* IAM
+* VPC basics
+* CloudWatch
+* Deployment concepts
+
+Don't try to learn all of AWS.
+
+---
+
+# 📊 13. MLOps
+
+**MLflow:** [MLflow Documentation](https://mlflow.org/docs/latest/ml/?utm_source=chatgpt.com)
+
+Learn:
+
+* Experiment tracking
+* Model versioning
+* Model registry
+* Deployment concepts
+
+**GitHub Actions:** [GitHub Actions Documentation](https://docs.github.com/en/actions?utm_source=chatgpt.com)
+
+---
+
+# 🧠 14. DSA
+
+For your placement preparation:
+
+[LeetCode](https://leetcode.com/?utm_source=chatgpt.com)
+
+Follow this order:
+
+```text
+Arrays
+ ↓
+Strings
+ ↓
+Hashing
+ ↓
+Two Pointers
+ ↓
+Sliding Window
+ ↓
+Binary Search
+ ↓
+Linked List
+ ↓
+Stack/Queue
+ ↓
+Trees
+ ↓
+Heap
+ ↓
+Graphs
+ ↓
+Dynamic Programming
+```
+
+Target: **200+ quality problems**, not random problem solving.
+
+---
+
+# 🗄️ 15. SQL
+
+Use:
+
+[SQLBolt](https://sqlbolt.com/?utm_source=chatgpt.com)
+
+Then practice on:
+
+[LeetCode Database Problems](https://leetcode.com/problemset/database/?utm_source=chatgpt.com)
+
+Target:
+
+**80–100 SQL problems.**
+
+---
+
+# 🎤 16. Interview Preparation
+
+Use your own projects as the main interview material.
+
+For every project, prepare answers to:
+
+* What problem does it solve?
+* Why did you choose this architecture?
+* Why this model?
+* How did you evaluate it?
+* What dataset did you use?
+* What problems did you face?
+* How did you improve accuracy?
+* How does RAG work?
+* Why use a vector database?
+* How would you scale it?
+* What would happen with 100,000 users?
+* What are the security risks?
+* What would you improve in version 2?
+
+---
+
+# ⭐ Don't use too many resources
+
+Your **core stack** should simply be:
+
+| Area          | Main Resource                         |
+| ------------- | ------------------------------------- |
+| Python        | Python Docs                           |
+| NumPy         | NumPy                                 |
+| Pandas        | Pandas                                |
+| Math          | Khan Academy                          |
+| ML            | Google ML Crash Course + Scikit-learn |
+| Deep Learning | PyTorch                               |
+| NLP           | Hugging Face                          |
+| LLM           | Official model docs                   |
+| RAG           | LlamaIndex                            |
+| Agents        | LangGraph                             |
+| API           | FastAPI                               |
+| Docker        | Docker Docs                           |
+| Cloud         | AWS Skill Builder                     |
+| MLOps         | MLflow                                |
+| DSA           | LeetCode                              |
+| SQL           | SQLBolt + LeetCode                    |
+
+### 🔥 One important rule
+
+**Don't study from 5 YouTube playlists simultaneously.**
+
+For every topic:
+
+**Learn → Code → Build → Explain → Push to GitHub → Move on.**
+
+That's the fastest way to turn the 180-day plan into an actual **job-ready AI Engineer profile**.
 
 
                              
