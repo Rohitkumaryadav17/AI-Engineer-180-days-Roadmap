@@ -1153,7 +1153,11 @@ And don't wait until Day 180 to apply.
 | Day    | Study                   | Coding                 | Practice                                         |
 | ------ | ----------------------- | ---------------------- | ------------------------------------------------ |
 
+
+
 **PHASE 3 — Mathematics for Machine Learning**
+
+
 
 | **36** | Scalars/vectors         | NumPy vectors          | Vector operations                                |
 | **37** | Dot product             | Implement manually     | Similarity calculator                            |
