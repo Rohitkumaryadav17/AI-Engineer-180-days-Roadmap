@@ -1214,6 +1214,9 @@ And don't wait until Day 180 to apply.
 | **78** | ML revision                  | 20 problems              | Model comparison                                |
 | **79** | End-to-end ML                | Full pipeline            | Complete ML project                             |
 | **80** | Project day                  | Documentation            | **Major Project #1: Customer Churn Prediction** |
+
+
+
 **
 PHASE 5 — Deep Learning + PyTorch**
 
