@@ -1104,6 +1104,7 @@ And don't wait until Day 180 to apply.
 🚀 **AI Engineer — Job Ready**
 
 **Important:** Treat each day as a checkbox, not a deadline to rush through. If you need two days for a difficult concept, take two days and shift the calendar forward. Depth + working projects matter more than finishing Day 180 on the exact date.
+**PHASE 1 — Python Foundation**
       
 | Day    | Study                                       | Coding                    | Build/Practice                            |
 | ------ | ------------------------------------------- | ------------------------- | ----------------------------------------- |
@@ -1129,6 +1130,8 @@ And don't wait until Day 180 to apply.
 | **20** | Python revision                             | 30 mixed problems         | **Mini Project: Student Management CLI**  |
 
 
+**PHASE 2 — NumPy, Pandas & Data Analysis**
+
 | Day    | Study                         | Coding                | Build                                     |
 | ------ | ----------------------------- | --------------------- | ----------------------------------------- |
 | **21** | NumPy introduction            | Arrays                | NumPy practice notebook                   |
@@ -1148,6 +1151,9 @@ And don't wait until Day 180 to apply.
 | **35** | Revision                      | Mixed exercises       | **Mini Project: Placement Data Analyzer** |
 | Day    | Study                   | Coding                 | Practice                                         |
 | ------ | ----------------------- | ---------------------- | ------------------------------------------------ |
+
+**PHASE 3 — Mathematics for Machine Learning**
+
 | **36** | Scalars/vectors         | NumPy vectors          | Vector operations                                |
 | **37** | Dot product             | Implement manually     | Similarity calculator                            |
 | **38** | Matrices                | Matrix operations      | Matrix calculator                                |
@@ -1164,6 +1170,7 @@ And don't wait until Day 180 to apply.
 | **49** | ML math revision        | Mixed problems         | ML mathematics notebook                          |
 | **50** | Full revision           | 20 problems            | **Mini Project: Linear Regression from Scratch** |
 
+**PHASE 4 — Machine Learning**
 
 | Day    | Study                        | Coding                   | Build                                           |
 | ------ | ---------------------------- | ------------------------ | ----------------------------------------------- |
@@ -1197,6 +1204,8 @@ And don't wait until Day 180 to apply.
 | **78** | ML revision                  | 20 problems              | Model comparison                                |
 | **79** | End-to-end ML                | Full pipeline            | Complete ML project                             |
 | **80** | Project day                  | Documentation            | **Major Project #1: Customer Churn Prediction** |
+**
+PHASE 5 — Deep Learning + PyTorch**
 
 
 | Day     | Study                      | Coding                  | Build                                             |
@@ -1226,8 +1235,10 @@ And don't wait until Day 180 to apply.
 | **103** | Deep-learning evaluation   | Metrics                 | Model evaluation                                  |
 | **104** | DL project structure       | Organize code           | Production-style repo                             |
 | **105** | Revision                   | Full experiment         | **Major Project #2: Image Classification System** |
+**
+  PHASE 6 — NLP + Transformers**
 
-
+  
 | Day     | Study               | Coding                   | Build                                   |
 | ------- | ------------------- | ------------------------ | --------------------------------------- |
 | **106** | NLP fundamentals    | Text processing          | Text cleaner                            |
@@ -1245,6 +1256,8 @@ And don't wait until Day 180 to apply.
 | **118** | BERT-style models   | Text classification      | Sentiment classifier                    |
 | **119** | NLP evaluation      | Accuracy/F1              | Evaluate model                          |
 | **120** | NLP revision        | Full pipeline            | **Mini Project: AI Sentiment Analyzer** |
+
+**PHASE 7 — Generative AI + LLM Engineering**
 
 
 | Day     | Study                        | Coding                        | Build                            |
@@ -1270,6 +1283,10 @@ And don't wait until Day 180 to apply.
 | **139** | Full integration             | Frontend + backend + LLM      | Complete chatbot                 |
 | **140** | Project day                  | Documentation/deployment prep | **Major Project #3: AI Chatbot** |
 
+
+
+**PHASE 8 — RAG**
+
 | Day     | Study                | Coding                       | Build                                  |
 | ------- | -------------------- | ---------------------------- | -------------------------------------- |
 | **141** | What is RAG?         | Basic RAG pipeline           | RAG architecture                       |
@@ -1286,6 +1303,8 @@ And don't wait until Day 180 to apply.
 | **152** | RAG API              | FastAPI                      | RAG backend                            |
 | **153** | Full integration     | UI + backend                 | **Major Project #4: PDF AI Assistant** |
 
+
+**Your project should work like:**
 PDF
  ↓
 Extract text
@@ -1302,6 +1321,8 @@ LLM
  ↓
 Answer
 
+**
+PHASE 9 — AI Agents**
 
 | Day     | Study                  | Coding               | Build                                   |
 | ------- | ---------------------- | -------------------- | --------------------------------------- |
@@ -1318,6 +1339,8 @@ Answer
 | **164** | Agent evaluation       | Test agent           | Evaluation suite                        |
 | **165** | Full project           | Integration          | **Major Project #5: AI Research Agent** |
 
+**PHASE 10 — FastAPI + Docker + Deployment**
+
 | Day     | Study                 | Coding                 | Build                 |
 | ------- | --------------------- | ---------------------- | --------------------- |
 | **166** | REST API concepts     | FastAPI basics         | ML prediction API     |
@@ -1332,6 +1355,9 @@ Answer
 | **175** | Logging/monitoring    | Add logs               | Production-style app  |
 
 
+
+**PHASE 11 — MLOps + AI System Design**
+
 | Day     | Study                                         | Coding               | Build                                         |
 | ------- | --------------------------------------------- | -------------------- | --------------------------------------------- |
 | **176** | MLflow, experiment tracking, model versioning | Track ML experiments | MLflow experiment                             |
@@ -1339,6 +1365,14 @@ Answer
 | **178** | AI system design                              | Design scalable RAG  | AI system architecture                        |
 | **179** | AI cost/latency/scaling                       | Optimize requests    | Improve AI application                        |
 | **180** | Interview + portfolio preparation             | Final integration    | **CAPSTONE: Production AI Engineer Platform** |
+
+
+
+🏆 Your Day 180 Capstone
+
+I recommend making your final project an upgraded version of your existing Interview Preparation project.
+
+AI Interview Preparation Platform
 
                     ┌───────────────────┐
                     │      React UI     │
@@ -1363,6 +1397,8 @@ Answer
                               Feedback + Score
 
                               Features
+
+                              Features
 Resume upload
 Resume analysis
 Job-description analysis
@@ -1381,9 +1417,10 @@ Docker
 Cloud deployment
 Logging
 Evaluation
+
 📚 What You Should Know at Day 180
 
-By the end, your skill tree should look like this:
+**By the end, your skill tree should look like this:**
 
 AI ENGINEER
 │
@@ -1450,6 +1487,7 @@ AI ENGINEER
     ├── Latency
     ├── Cost
     └── Monitoring
+
 🎯 Portfolio After 180 Days
 
 You should have at least these 6 strong projects on GitHub:
@@ -1461,7 +1499,9 @@ PDF AI Assistant — RAG
 AI Research Agent — Agents
 AI Interview Preparation Platform — Full-stack + RAG + Agent + Deployment
 Your progression
-Day 1
+
+
+    Day 1
 Python Beginner
      ↓
 Day 50
@@ -1484,6 +1524,8 @@ AI Application Engineer
      ↓
 Day 180
 🚀 Junior AI Engineer
+
+
 ⏰ Your daily 3-hour formula
 
 First 60 min: Learn theory
@@ -1493,9 +1535,7 @@ Last 15 min: GitHub + notes + revision
 
 
 
-
-
-
+                             
 
 
 
