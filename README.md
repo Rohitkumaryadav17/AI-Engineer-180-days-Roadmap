@@ -1247,6 +1247,254 @@ And don't wait until Day 180 to apply.
 | **120** | NLP revision        | Full pipeline            | **Mini Project: AI Sentiment Analyzer** |
 
 
+| Day     | Study                        | Coding                        | Build                            |
+| ------- | ---------------------------- | ----------------------------- | -------------------------------- |
+| **121** | What are LLMs?               | LLM API basics                | First AI chatbot                 |
+| **122** | Tokens                       | Tokenizer experiments         | Token counter                    |
+| **123** | Context windows              | Prompt experiments            | Context tester                   |
+| **124** | Prompt engineering           | Write structured prompts      | Prompt library                   |
+| **125** | System/user prompts          | API calls                     | Role-based chatbot               |
+| **126** | Temperature/top-p            | Compare outputs               | Generation experiment            |
+| **127** | Structured output            | JSON responses                | JSON AI extractor                |
+| **128** | Function/tool calling        | Tool integration              | Calculator AI                    |
+| **129** | Embeddings                   | Generate embeddings           | Semantic similarity              |
+| **130** | Vector search                | FAISS/Chroma                  | Semantic search engine           |
+| **131** | Hugging Face models          | Run pretrained model          | Local AI experiment              |
+| **132** | Model inference              | Optimize inference            | Local chatbot                    |
+| **133** | LLM evaluation               | Build evaluation set          | Compare responses                |
+| **134** | Hallucination                | Study failure cases           | Hallucination test               |
+| **135** | AI safety/guardrails         | Input/output validation       | Safe chatbot                     |
+| **136** | LLM application architecture | Backend design                | AI API architecture              |
+| **137** | AI chatbot backend           | FastAPI                       | Chat API                         |
+| **138** | AI chatbot frontend          | Connect frontend              | React AI chat UI                 |
+| **139** | Full integration             | Frontend + backend + LLM      | Complete chatbot                 |
+| **140** | Project day                  | Documentation/deployment prep | **Major Project #3: AI Chatbot** |
+
+| Day     | Study                | Coding                       | Build                                  |
+| ------- | -------------------- | ---------------------------- | -------------------------------------- |
+| **141** | What is RAG?         | Basic RAG pipeline           | RAG architecture                       |
+| **142** | Document loading     | PDF/text loaders             | Document loader                        |
+| **143** | Chunking             | Text splitter                | Chunking experiment                    |
+| **144** | Embeddings           | Generate document embeddings | Embedding pipeline                     |
+| **145** | Vector databases     | Chroma/FAISS                 | Vector store                           |
+| **146** | Retrieval            | Similarity search            | Document search                        |
+| **147** | Retrieval + LLM      | Build basic RAG              | Q&A system                             |
+| **148** | Metadata filtering   | Add metadata                 | Filtered search                        |
+| **149** | Retrieval evaluation | Precision/recall concepts    | Retrieval testing                      |
+| **150** | Reranking            | Study reranking              | Improve retrieval                      |
+| **151** | Query rewriting      | Implement queries            | Better RAG                             |
+| **152** | RAG API              | FastAPI                      | RAG backend                            |
+| **153** | Full integration     | UI + backend                 | **Major Project #4: PDF AI Assistant** |
+
+PDF
+ ↓
+Extract text
+ ↓
+Chunk
+ ↓
+Embeddings
+ ↓
+Vector DB
+ ↓
+Retrieve relevant chunks
+ ↓
+LLM
+ ↓
+Answer
+
+
+| Day     | Study                  | Coding               | Build                                   |
+| ------- | ---------------------- | -------------------- | --------------------------------------- |
+| **154** | AI Agents fundamentals | Basic agent workflow | Simple agent                            |
+| **155** | Tool calling           | Build tools          | Calculator/search tools                 |
+| **156** | Function calling       | Multiple functions   | Tool-using agent                        |
+| **157** | Agent memory           | Store conversation   | Memory chatbot                          |
+| **158** | Planning               | Multi-step workflow  | Research workflow                       |
+| **159** | LangChain fundamentals | Build chain          | Simple chain                            |
+| **160** | LangGraph fundamentals | Graph workflow       | Agent graph                             |
+| **161** | Agent state            | State management     | Stateful agent                          |
+| **162** | Multi-tool agent       | Integrate tools      | Research agent                          |
+| **163** | Human-in-the-loop      | Approval workflow    | Controlled agent                        |
+| **164** | Agent evaluation       | Test agent           | Evaluation suite                        |
+| **165** | Full project           | Integration          | **Major Project #5: AI Research Agent** |
+
+| Day     | Study                 | Coding                 | Build                 |
+| ------- | --------------------- | ---------------------- | --------------------- |
+| **166** | REST API concepts     | FastAPI basics         | ML prediction API     |
+| **167** | FastAPI routes        | GET/POST               | AI API                |
+| **168** | Pydantic              | Request validation     | Structured API        |
+| **169** | Database integration  | SQL + API              | AI app database       |
+| **170** | Authentication basics | Auth API               | Protected endpoint    |
+| **171** | Docker fundamentals   | Dockerfile             | Containerize AI app   |
+| **172** | Docker Compose        | Multi-container setup  | AI + DB containers    |
+| **173** | Cloud basics          | Study AWS architecture | Cloud deployment plan |
+| **174** | Deployment            | Deploy API             | Online AI API         |
+| **175** | Logging/monitoring    | Add logs               | Production-style app  |
+
+
+| Day     | Study                                         | Coding               | Build                                         |
+| ------- | --------------------------------------------- | -------------------- | --------------------------------------------- |
+| **176** | MLflow, experiment tracking, model versioning | Track ML experiments | MLflow experiment                             |
+| **177** | CI/CD basics + GitHub Actions                 | Create workflow      | Automated testing                             |
+| **178** | AI system design                              | Design scalable RAG  | AI system architecture                        |
+| **179** | AI cost/latency/scaling                       | Optimize requests    | Improve AI application                        |
+| **180** | Interview + portfolio preparation             | Final integration    | **CAPSTONE: Production AI Engineer Platform** |
+
+                    ┌───────────────────┐
+                    │      React UI     │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │     FastAPI       │
+                    └─────────┬─────────┘
+                              ↓
+              ┌───────────────┼────────────────┐
+              ↓               ↓                ↓
+          PostgreSQL       RAG System       AI Agent
+              ↓               ↓                ↓
+          User Data      Interview Docs    AI Tools
+                              ↓                ↓
+                              └───────┬────────┘
+                                      ↓
+                                  LLM
+                                      ↓
+                              AI Evaluation
+                                      ↓
+                              Feedback + Score
+
+                              Features
+Resume upload
+Resume analysis
+Job-description analysis
+Skill-gap analysis
+AI-generated interview questions
+Technical mock interview
+HR mock interview
+RAG over interview-preparation material
+AI feedback
+Personalized learning roadmap
+Progress dashboard
+Authentication
+Database
+API
+Docker
+Cloud deployment
+Logging
+Evaluation
+📚 What You Should Know at Day 180
+
+By the end, your skill tree should look like this:
+
+AI ENGINEER
+│
+├── Python
+│   ├── OOP
+│   ├── APIs
+│   ├── Git
+│   └── Linux
+│
+├── Mathematics
+│   ├── Linear Algebra
+│   ├── Probability
+│   ├── Statistics
+│   └── Calculus
+│
+├── Machine Learning
+│   ├── Regression
+│   ├── Classification
+│   ├── Clustering
+│   └── Evaluation
+│
+├── Deep Learning
+│   ├── PyTorch
+│   ├── CNN
+│   ├── RNN/LSTM
+│   └── Transformers
+│
+├── NLP
+│   ├── Embeddings
+│   ├── BERT
+│   └── Transformers
+│
+├── Generative AI
+│   ├── LLMs
+│   ├── Prompt Engineering
+│   ├── Function Calling
+│   └── Structured Output
+│
+├── RAG
+│   ├── Chunking
+│   ├── Embeddings
+│   ├── Vector DB
+│   ├── Retrieval
+│   └── Reranking
+│
+├── AI Agents
+│   ├── Tools
+│   ├── Memory
+│   ├── Planning
+│   └── Workflows
+│
+├── Backend
+│   ├── FastAPI
+│   ├── SQL
+│   └── REST APIs
+│
+├── Deployment
+│   ├── Docker
+│   ├── Cloud
+│   └── CI/CD
+│
+└── AI System Design
+    ├── Scalability
+    ├── Latency
+    ├── Cost
+    └── Monitoring
+🎯 Portfolio After 180 Days
+
+You should have at least these 6 strong projects on GitHub:
+
+Customer Churn Prediction — Machine Learning
+Image Classification System — Deep Learning
+AI Chatbot — LLM
+PDF AI Assistant — RAG
+AI Research Agent — Agents
+AI Interview Preparation Platform — Full-stack + RAG + Agent + Deployment
+Your progression
+Day 1
+Python Beginner
+     ↓
+Day 50
+ML Developer
+     ↓
+Day 105
+Deep Learning Developer
+     ↓
+Day 140
+Generative AI Developer
+     ↓
+Day 153
+RAG Engineer
+     ↓
+Day 165
+AI Agent Developer
+     ↓
+Day 175
+AI Application Engineer
+     ↓
+Day 180
+🚀 Junior AI Engineer
+⏰ Your daily 3-hour formula
+
+First 60 min: Learn theory
+Next 60 min: Code from scratch
+Next 45 min: Project
+Last 15 min: GitHub + notes + revision
+
+
+
+
+
 
 
 
